@@ -4,13 +4,13 @@ Introduction:-
 
 Installation:-
 1)Install the virtual environment.
-pip install virtualenv
+  --pip install virtualenv
 
 2)Then,
-virtualenv myenv
+  --virtualenv myenv
 
 3)After that, activate the virtual environment
-source myenv/bin/activate
+  --source myenv/bin/activate
 
 4)Finally, run the application.
-python manage.py runserver
+  --python manage.py runserver
